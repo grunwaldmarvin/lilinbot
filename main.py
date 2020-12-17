@@ -242,4 +242,4 @@ async def announce(ctx, message):
 
 
 
-bot.run('Nzg5MDMzMjE3ODY4MDM4MTc0.X9sKcg.Zztqzx3kDyb3MrIwZK9rXZhlhiE')
+bot.run('TOKEN')
